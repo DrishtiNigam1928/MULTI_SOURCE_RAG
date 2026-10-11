@@ -1,0 +1,13 @@
+langchain==0.3.7
+langchain-community==0.3.7
+langchain-chroma==0.1.4
+langchain-huggingface==0.1.2
+langchain-groq==0.2.1
+chromadb==0.5.20
+sentence-transformers==3.3.1
+gitpython==3.1.43
+streamlit==1.40.1
+python-dotenv==1.0.1
+tiktoken==0.8.0
+requests>=2,<3
+beautifulsoup4==4.12.3
